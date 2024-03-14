@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75085685918",
+    "project_id": "crud-tutorfirestore",
+    "storage_bucket": "crud-tutorfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75085685918:android:50208404212b39e51bc78f",
+        "android_client_info": {
+          "package_name": "com.example.crud_tut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75085685918-n7f21ikeed8rd72s64ui6i9ft3psb427.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-P3wIHbz6gI5uYzKrOvKJCeezoI5JOII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75085685918-n7f21ikeed8rd72s64ui6i9ft3psb427.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
